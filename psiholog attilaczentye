@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogul lui Psiholog Attila Czentye</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f7f7f7; color: #333; }
+        header { background: #4a90e2; color: white; padding: 20px; text-align: center; }
+        nav { background: #333; color: white; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        nav a:hover { text-decoration: underline; }
+        main { padding: 20px; max-width: 900px; margin: auto; }
+        article { background: white; padding: 20px; margin-bottom: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1, h2 { color: #4a90e2; }
+        footer { background: #333; color: white; text-align: center; padding: 15px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Blogul lui Psiholog Attila Czentye</h1>
+        <p>Explorări teologice, psihologice și spirituale</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Acasă</a>
+        <a href="about.html">Despre mine</a>
+        <a href="articles.html">Articole</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+
+    <main>
+        <article>
+            <h2>Concept: Rolul preotului ca facilitator sacramental</h2>
+            <p><strong>Psiholog Attila Czentye:</strong> Preotul pe pământ <strong>nu creează Jertfa lui Hristos</strong>, ci acționează ca <strong>facilitator sacramental</strong>, rostind păcatele credincioșilor și invocând <strong>Duhul Sfânt</strong>, pentru ca <strong>efectele Jertfei să se aplice personal la fiecare credincios</strong>.</p>
+
+            <h3>Pe pământ:</h3>
+            <ul>
+                <li>Preotul facilitează transferul păcatelor, rostind păcatele și invocând Duhul Sfânt.</li>
+                <li>Credinciosul participă conștient, recunoscând păcatele și asociindu-se cu Jertfa lui Hristos.</li>
+                <li>Transferul păcatelor are loc tainic și sacramental, activând efectul Jertfei deja realizate.</li>
+            </ul>
+
+            <h3>În cer:</h3>
+            <ul>
+                <li>Hristos Miel și Preot veșnic actualizează Jertfa pentru păcatele credinciosului, făcând-o eficace.</li>
+                <li>Păcatele „se pun” tainic pe Jertfa Lui veșnică, iar efectul iertării se aplică personal fiecărui credincios conștient.</li>
+            </ul>
+
+            <h3>Rezumat:</h3>
+            <pre>
+[ Hristos Miel – Jertfa completă și eternă ]
+        ↓
+[ Hristos Preot veșnic – actualizează Jertfa pentru păcatele noastre ]
+        ↑
+[ Preot pământesc – rosteste păcatele, invocă Duhul Sfânt ]
+        ↑
+[ Credincios conștient – aduce păcatele, se unește cu Jertfa, primește iertarea ]
+            </pre>
+        </article>
+    </main>
+
+    <footer>
+        &copy; 2025 Psiholog Attila Czentye | Toate drepturile rezervate
+    </footer>
+</body>
+</html>
+
+<!-- About Page -->
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Despre Psiholog Attila Czentye</title>
+</head>
+<body>
+    <header><h1>Despre Psiholog Attila Czentye</h1></header>
+    <nav>
+        <a href="index.html">Acasă</a> | <a href="articles.html">Articole</a> | <a href="contact.html">Contact</a>
+    </nav>
+    <main>
+        <article>
+            <p>Salut! Sunt <strong>Psiholog Attila Czentye</strong>, pasionat de intersecția dintre teologie, psihologie și spiritualitate. În blogul meu explorez concepte teologice, ritualuri sacramentale și procese psihologice care ajută la creșterea personală și la înțelegerea tainelor spirituale.</p>
+        </article>
+    </main>
+</body>
+</html>
+
+<!-- Articles Page -->
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Articole - Psiholog Attila Czentye</title>
+</head>
+<body>
+    <header><h1>Articole</h1></header>
+    <nav>
+        <a href="index.html">Acasă</a> | <a href="about.html">Despre mine</a> | <a href="contact.html">Contact</a>
+    </nav>
+    <main>
+        <article>
+            <h2>Concept: Rolul preotului ca facilitator sacramental</h2>
+            <p><a href="index.html">Citește articolul complet</a></p>
+        </article>
+        <!-- Poți adăuga aici articole noi -->
+    </main>
+</body>
+</html>
+
+<!-- Contact Page -->
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Psiholog Attila Czentye</title>
+</head>
+<body>
+    <header><h1>Contact</h1></header>
+    <nav>
+        <a href="index.html">Acasă</a> | <a href="about.html">Despre mine</a> | <a href="articles.html">Articole</a>
+    </nav>
+    <main>
+        <article>
+            <p>Pentru întrebări sau colaborări, mă poți contacta la email: <strong>attila.czentye@example.com</strong></p>
+            <form>
+                <label>Nume:<br><input type="text" name="name"></label><br><br>
+                <label>Email:<br><input type="email" name="email"></label><br><br>
+                <label>Mesaj:<br><textarea name="message" rows="5"></textarea></label><br><br>
+                <input type="submit" value="Trimite">
+            </form>
+        </article>
+    </main>
+</body>
+</html>
